@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Code Morse</b></h3>
+  <h3><b>Making Enumerable</b></h3>
 
 </div>
 
@@ -34,9 +34,8 @@
 
 # 📖 Code Morse <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
-**Code Morse** is a Ruby application where you can convert morse code into english sentence. 
+**Enumerable** is a Ruby application where you We made enumerable for all any and filter. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -55,9 +54,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **convert morse code sentence into english sentence**
-- **convert morse code word into english word**
-- **convert morse code letter into english letter**
+- **Add enumerable **
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,7 +82,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/mahdinoori2000/morse-code.git
+  git clone https://github.com/mahdinoori2000/enumerable.git
 ```
 
 
@@ -106,7 +103,7 @@ To run the project, execute the following command:
 
 
 ```sh
-  ruby decode.rb  
+  ruby my_list.rb  
 ```
 
 
@@ -136,7 +133,7 @@ To run the project, execute the following command:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **Add more functionality for converting more code**
+- [ ] **Add more Enumerables**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -147,7 +144,7 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/mahdinoori2000/morse-code/issues).
+Feel free to check the [issues page](https://github.com/mahdinoori2000/enumerable/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
